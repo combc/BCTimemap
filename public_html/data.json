@@ -1,0 +1,321 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "start": "-000490-02-01T05:00:00.000Z",
+            "title": "Bitwa pod Maratonem",
+            "point": {
+                "lat": 38.1598376,
+                "lon": 23.9774369
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Najważniejsza bitwa pierwszej wielkiej inwazji perskiej na Grecję, która miała miejsce w roku 490 p.n.e.Maraton to mała miejscowość we wschodniej Attyce."
+            }
+        },
+        {
+            "start": "-000413-01-01T05:00:00.000Z",
+            "title": "Wyprawa sycylijska",
+            "point": {
+                "lat": 37.5999938,
+                "lon": 14.0153557
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Nieudana próba przejęcia kontroli nad Sycylią przez Ateny w czasie wojny peloponeskiej. Była to najbardziej fatalna w skutkach decyzja Aten podczas całej wojny."
+            }
+        },
+        {
+            "start": "-000331-01-01T05:00:00.000Z",
+            "title": "Bitwa pod Gaugamelą",
+            "point": {
+                "lat": 36.191111,
+                "lon": 44.009167
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Starcie zbrojne, które miało miejsce 1 października (niektórzy historycy przyjmują datę 27 września) 331 p.n.e. pomiędzy wojskami macedońskimi Aleksandra Wielkiego a armią perską króla Dariusza III."
+            }
+        },
+        {
+            "start": "-000207-01-01T05:00:00.000Z",
+            "title": "Bitwa nad Metaurusem",
+            "point": {
+                "lat": 43.68508,
+                "lon": 12.871285
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Starcie zbrojne, które miało miejsce w czerwcu bądź lipcu roku 207 p.n.e. w trakcie drugiej wojny punickiej.W bitwie tej naprzeciw siebie stanęły armie Hazdrubala (30 000 zbrojnych) oraz rzymskich konsulów Gajusza Klaudiusza Nerona i Marka Liwiusza Salinatora (37 000 zbrojnych)."
+            }
+        },
+        {
+            "start": "0009-09-09",
+            "title": "Bitwa w Lesie Teutoburskim",
+            "point": {
+                "lat": 51.85846,
+                "lon": 8.78039
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Bitwa stoczona jesienią 9 roku n.e. pomiędzy plemionami germańskimi pod wodzą Arminiusza, wodza ze szczepu Cherusków, a wciągnietymi w zasadzkę trzema legionami rzymskimi (XVII, XVIII, XIX), dowodzonymi przez Publiusza Kwinktyliusza Warusa."
+            }
+        },
+        {
+            "start": "271",
+            "title": "Bitwa pod Fano",
+            "point": {
+                "lat": 43.8398164,
+                "lon": 13.019420099999934
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Starcie zbrojne, które miało miejsce w roku 271 r. w trakcie walk Rzymian z Alamanami."
+            }
+        },
+        {
+            "start": "0451-06-20",
+            "title": "Bitwa na Polach Katalaunijskich",
+            "point": {
+                "lat": 48.956682,
+                "lon": 4.363073
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Bitwa stoczona 20 czerwca 451 między cesarstwem rzymskim a Hunami, zakończona zwycięstwem Rzymu."
+            }
+        },
+        {
+            "start": "0732-10-25",
+            "title": "Bitwa pod Poitiers",
+            "point": {
+                "lat": 46.580224,
+                "lon": 0.340375
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Bitwa stoczona 25 października 732 roku między armią arabską pod wodzą Abd ar-Rahmana, a wojskami frankijskimi majordoma królestwa Karola Młota i księcia Akwitanii Odona."
+            }
+        },
+        {
+            "start": "1066-10-14",
+            "title": "Bitwa pod Hastings",
+            "point": {
+                "lat": 50.854259,
+                "lon": 0.573453
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Decydującym starciem w inwazji Normanów na Anglię w 1066 roku pomiędzy wojskami Normanów pod dowództwem Wilhelma Zdobywcy a pospolitym ruszeniem anglosaskim i gwardii dowodzonymi przez króla Harolda II. W związku z tym, że w jej wyniku najeźdźcy z kontynentu europejskiego opanowali cały kraj, bitwa pod Hastings uważana jest za jedną z decydujących bitew w dziejach świata."
+            }
+        },
+        {
+            "start": "1428-10-12",
+            "title": "Oblężenie Orleanu",
+            "point": {
+                "lat": 47.902964,
+                "lon": 1.909251
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Oblężenie miasta w latach 1428–1429, które stanowiło punkt zwrotny wojny stuletniej pomiędzy Francją a Anglią. Było to również pierwsze poważne zwycięstwo Joanny d'Arc oraz pierwszy znaczący sukces francuski od klęski w bitwie pod Azincourt w roku 1415. Zdjęcie tego oblężenia oznaczało początek końca przewagi angielskiej, co miało uwidocznić się w nadchodzącym końcu wojny. Miasto posiadało strategiczne i symboliczne znaczenie dla obu stron konfliktu. Jego zdobycie mogło oznaczać ziszczenie się snów króla Anglii Henryka V o zjednoczeniu Anglii i Francji pod angielskim berłem. Przez ponad pół roku wszystko wskazywało na to, że Anglicy zwyciężą, a miasto padnie. W dziewięć dni po pojawieniu się Joanny d'Arc musieli odstąpić od oblężenia."
+            }
+        },
+        {
+            "start": "1588-08-08",
+            "title": "Klęska Wielkiej Armady",
+            "point": {
+                "lat": 50.98707,
+                "lon": 2.125537
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Flota hiszpańska biorąca udział w wyprawie na Anglię, zniszczona w 1588 roku."
+            }
+        },
+        {
+            "start": "1704-08-13",
+            "title": "Bitwa pod Blenheim",
+            "point": {
+                "lat": 48.6318598,
+                "lon": 10.61978
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Zwana także bitwą pod Blindheim albo drugą bitwą pod Höchstädt) – starcie zbrojne, które miało miejsce 13 sierpnia 1704 r. w trakcie wojny o sukcesję hiszpańską (1701–1714)."
+            }
+        },
+        {
+            "start": "1709-07-08",
+            "title": "Bitwa pod Połtawą",
+            "point": {
+                "lat": 49.588267,
+                "lon": 34.551417
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Starcie zbrojne, które miało miejsce 8 lipca 1709 roku podczas wielkiej wojny północnej, stoczone pod Połtawą na Ukrainie Lewobrzeżnej pomiędzy wojskami króla szwedzkiego Karola XII a wojskami rosyjskimi cara Piotra Wielkiego. W wyniku bitwy armia szwedzka została rozbita."
+            }
+        },
+        {
+            "start": "1777-09-17",
+            "title": "Bitwa pod Saratogą",
+            "point": {
+                "lat": 37.2638324,
+                "lon": -122.0230146
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Starcie zbrojne (a właściwie seria starć), które miało miejsce pomiędzy siłami brytyjskimi i amerykańskimi podczas wojny o niepodległość Stanów Zjednoczonych, między 17 września i 8 października 1777. Bitwa doprowadziła do kapitulacji armii brytyjskiej 17 października 1777 i była punktem zwrotnym wojny, gdyż amerykańskie zwycięstwo skłoniło Francję do przystąpienia do wojny po stronie amerykańskiej."
+            }
+        },
+        {
+            "start": "1792-09-20",
+            "title": "Bitwa pod Valmy",
+            "point": {
+                "lat": 49.083988,
+                "lon": 4.77411
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Bitwa, która powstrzymała ofensywę austriacko-pruską podczas wojny z Francją 20 września 1792 roku. Wycofanie się − w jej rezultacie − Prusaków z wojny ocaliło Francję przed możliwą inwazją i ugruntowało w Europie przekonanie o sile francuskiego rewolucyjnego rządu. Była to pierwsza bitwa, w której zwyciężyła zasada levée en masse."
+            }
+        },
+        {
+            "start": "1815-06-18",
+            "title": "Bitwa pod Waterloo",
+            "point": {
+                "lat": 50.71469,
+                "lon": 4.3991
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Starcie zbrojne, do którego doszło 18 czerwca 1815 roku i było ostatnią bitwą Napoleona Bonaparte. Były cesarz Francuzów powrócił niespodziewanie z wygnania na Elbie i objął rządy na okres 100 dni. W krótkim czasie zebrał ponad 70-tysięczną armię, z którą ruszył w kierunku Brukseli, gdzie stały nierozwiązane jeszcze armie VI koalicji: angielska Wellingtona i pruska Blüchera. Po dwóch zwycięskich starciach 16 czerwca pod Quatre Bras i Ligny Napoleon stanął oko w oko z Wellingtonem pod Waterloo. Zwycięska początkowo bitwa po nadejściu armii Blüchera przemieniła się w klęskę, a armia francuska przestała istnieć. Napoleon musiał ponownie abdykować w dniu 22 czerwca."
+            }
+        },
+        {
+            "start": "1862-02-01",
+            "title": "kampania na Missisipi",
+            "point": {
+                "lat": 32.3546679,
+                "lon": -89.3985283
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Lorem ipsum"
+            }
+        },
+        {
+            "start": "1870-09-01",
+            "title": "Bitwa pod Sedanem",
+            "point": {
+                "lat": 49.70349,
+                "lon": 4.93863
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Starcie zbrojne, które miało miejsce 1 września 1870 roku podczas wojny francusko-pruskiej. Konsekwencją bitwy była kapitulacja cesarza Napoleona III wraz z jego armią i zwycięstwo Prus i ich sprzymierzeńców w wojnie, chociaż walka była kontynuowana przez nowy rząd francuski. Bitwa została wyróżniona przez Edgara Vincenta D’Abernon jako jedna z 18 bitew decydujących o losach świata"
+            }
+        },
+        {
+            "start": "1914-09-05",
+            "title": "I bitwa nad Marną",
+            "point": {
+                "lat": 49.128754,
+                "lon": 4.1475445
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Kilkudniowa bitwa I wojny światowej pomiędzy wojskami francusko-brytyjskimi a niemieckimi, która powstrzymała dalszy marsz Niemców na zachód. Plan \"wojny błyskawicznej\" Alfreda von Schlieffena nie powiódł się, tym samym nie udało się Niemcom wyeliminować z wojny Francji."
+            }
+        },
+        {
+            "start": "1920-08-12",
+            "title": "Bitwa warszawska",
+            "point": {
+                "lat": 52.2296756,
+                "lon": 21.0122287
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Bitwa stoczona w dniach 13-25 sierpnia 1920 w czasie wojny polsko-bolszewickiej. Zadecydowała o zachowaniu niepodległości przez Polskę i przekreśliła plany rozprzestrzenienia rewolucji na Europę Zachodnią. Zdaniem Edgara D'Abernon była to 18. z przełomowych bitew w historii świata."
+            }
+        },
+        {
+            "start": "1942-06-04",
+            "title": "bitwa o Midway",
+            "point": {
+                "lat": 31.805769,
+                "lon": -81.4306642
+            },
+            "options": {
+                "tags": [
+                    "msg",
+                    "event"
+                ],
+                "description": "Bitwa lotniczo-morska w czasie II wojny światowej, stoczona w dniach 4–7 czerwca 1942 pomiędzy okrętami japońskimi a amerykańskimi, w pobliżu atolu Midway na Oceanie Spokojnym, zakończona taktycznym i strategicznym zwycięstwem amerykańskim. Uznawana jest umownie za punkt zwrotny w wojnie na Pacyfiku, ponieważ inicjatywa działań militarnych przeszła na stronę amerykańską."
+            }
+        }
+    ],
+    "totalItems": 21
+}

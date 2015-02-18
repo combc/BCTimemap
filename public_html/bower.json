@@ -1,0 +1,9 @@
+{
+  "name": "timemap",
+  "version": "1.0.0",
+  "dependencies": {
+    "timemap": "https://github.com/datadesk/timemap.git",
+    "bootstrap": "~3.3.2",
+    "seiyria-bootstrap-slider": "*"
+  }
+}
