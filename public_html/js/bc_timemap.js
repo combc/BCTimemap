@@ -8,6 +8,8 @@ var bc_timemap = {
     //Buttons to play, pause animation
     playbtn: $('#bct_playBtn'),
     pausebtn: $('#bct_pauseBtn'),
+    speedbtn: $('#bct_speedBtn'),
+    slowbtn: $('#bct_slowBtn'),
     //Content where is timeslider
     timesliderContent: $('#bct_timeSlider'),
     timeSlider: null,
@@ -74,6 +76,8 @@ var bc_timemap = {
 
         this.pausebtn.click(this.playAnime);
         this.playbtn.click(this.pauseAnime);
+        this.speedbtn.click(this.speedUp);
+        this.slowbtn.click(this.slowDown);
     },
     //Function to scrollime
     start: function () {
@@ -123,5 +127,12 @@ var bc_timemap = {
         if (!slider && bc_timemap.timeSlider !== null) {
             bc_timemap.timeSlider.slider('setValue', value);
         }
+    },
+    //control speed of time
+    slowDown: function (){
+        bc_timemap.speed = bc_timemap.speed / 2;
+    },
+    speedUp: function (){
+        bc_timemap.speed = bc_timemap.speed * 2;
     }
 };

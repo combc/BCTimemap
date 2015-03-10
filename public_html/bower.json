@@ -1,6 +1,6 @@
 {
   "name": "timemap",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "dependencies": {
     "timemap": "https://github.com/datadesk/timemap.git",
     "bootstrap": "~3.3.2",
