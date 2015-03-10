@@ -1,0 +1,15 @@
+{
+  "name": "BCTimemap",
+  "version": "1.0.1",
+  "description": "This is a JavaScript script created by combc.eu",
+  "main": "public_html/index.html",
+  "author": "combc.eu",
+  "url" : "httpp://www.combc.eu",
+  "man" : "README.md",
+  "license" : "MIT",
+  "repository" :
+  { 
+     "type" : "git",
+     "url" : "https://github.com/combc/BCTimemap.git"
+  }
+}
