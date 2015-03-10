@@ -4,6 +4,6 @@
   "dependencies": {
     "timemap": "https://github.com/datadesk/timemap.git",
     "bootstrap": "~3.3.2",
-    "seiyria-bootstrap-slider": "*"
+    "seiyria-bootstrap-slider": "4.5.3"
   }
 }

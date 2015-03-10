@@ -1,7 +1,7 @@
 var bc_timemap = {
     //Default play animation
     play: true,
-    speed:  10e8,
+    speed: 10e9,
     timeGlobal: new Date(),
     //Content where is the message text
     messageContent: $('#bct_textMsg'),
@@ -52,19 +52,28 @@ var bc_timemap = {
     ], {
         name: "white"
     }),
+    mapOptions: {
+        mapTypeControl: false,
+        zoomControl: true,
+        zoomControlOptions: {
+            style: google.maps.ZoomControlStyle.LARGE,
+            position: google.maps.ControlPosition.LEFT_CENTER
+        },
+        scaleControl: true, // fixed to BOTTOM_RIGHT
+    },
     //initialization function. Here we start
     init: function () {
         // set the map to our custom style
         var gmap = this.tm.getNativeMap();
+        gmap.setOptions(this.mapOptions);
         gmap.mapTypes.set("white", this.styledMapType);
         gmap.setMapTypeId("white");
 
         //send ajax request
         bc_ajaxData.ask;
-        
+
         this.pausebtn.click(this.playAnime);
         this.playbtn.click(this.pauseAnime);
-        
     },
     //Function to scrollime
     start: function () {
