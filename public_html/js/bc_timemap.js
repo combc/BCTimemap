@@ -69,7 +69,6 @@ var bc_timemap = {
     init: function () {
         // set the map to our custom style
         var gmap = this.tm.getNativeMap();
-        console.log(gmap);
         gmap.setOptions(this.mapOptions);
         gmap.mapTypes.set("white", this.styledMapType);
         gmap.setMapTypeId("white");
@@ -104,6 +103,9 @@ var bc_timemap = {
         $(bc_timemap.tm.getItems().reverse()).each(function (i) {
             if ((this.opts.tags.indexOf('msg') >= 0) && (this.onVisibleTimeline())) {
                 bc_timemap.messageContent.html(this.getInfoHtml());
+                
+                var gmap = bc_timemap.tm.getNativeMap();
+                gmap.setCenter({lat: this.opts.infoPoint.lat, lng: this.opts.infoPoint.lng});
                 return false;
             }
         });
