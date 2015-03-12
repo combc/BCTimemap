@@ -2,7 +2,7 @@ var bc_timemap = {
     //Default play animation
     play: true,
     speed: 10e9,
-    timeGlobal: new Date(),
+   timeGlobal: new Date(),
     //Content where is the message text
     messageContent: $('#bct_textMsg'),
     //Buttons to play, pause animation
@@ -19,7 +19,9 @@ var bc_timemap = {
         timelineId: "bct_timeline", // Id of timeline div element (required)
         options: {
             eventIconPath: "bower_components/timemap/images/",
-            theme: "orange"
+            theme: "orange",
+            icon: "https://cdn0.iconfinder.com/data/icons/faticons-2/23/close15-16.png",
+            iconSize: [16,16]
         },
         datasets: [
             {
@@ -67,6 +69,7 @@ var bc_timemap = {
     init: function () {
         // set the map to our custom style
         var gmap = this.tm.getNativeMap();
+        console.log(gmap);
         gmap.setOptions(this.mapOptions);
         gmap.mapTypes.set("white", this.styledMapType);
         gmap.setMapTypeId("white");
@@ -129,10 +132,10 @@ var bc_timemap = {
         }
     },
     //control speed of time
-    slowDown: function (){
+    slowDown: function () {
         bc_timemap.speed = bc_timemap.speed / 2;
     },
-    speedUp: function (){
+    speedUp: function () {
         bc_timemap.speed = bc_timemap.speed * 2;
     }
 };
